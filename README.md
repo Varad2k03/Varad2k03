@@ -5,7 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varad2k03" alt="varad2k03" /></a> </p>
 
+<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=790b76114acfea86e8cf7ca3b20b08062d3cc4c92bfb7cc9&rid=giphy.gif&ct=g">
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+
 
 - 🌱 I’m currently learning **node.js,react**
 
