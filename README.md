@@ -11,7 +11,7 @@
 
 
 
-- 🌱 I’m currently learning **node.js,react**
+- 🌱 I’m currently learning **reactjs,react native**
 
 - 👨‍💻 All of my projects are available at [https://varad2k03.github.io/Portfolio/](https://varad2k03.github.io/Portfolio/)
 
