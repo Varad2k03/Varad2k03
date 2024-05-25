@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **reactjs,react native**
 
-- 👨‍💻 All of my projects are available at [https://varad2k03.github.io/Portfolio/](https://varadc-react-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://varadc-react-portfolio.vercel.app/](https://varadc-react-portfolio.vercel.app/)
 
 - 📫 How to reach me **varadchandrawar.cse@gmail.com**
 
